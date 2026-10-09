@@ -1,5 +1,7 @@
 {
-  "url": "http://localhost:3000",
+  "url": "https://yirs.kasua.ng",
   "name": "YIRS Blockchain Revenue System",
-  "iconUrl": "https://raw.githubusercontent.com/Dangujba/privateapp/main/frontend/public/yirs-icon.png"
+  "iconUrl": "https://yirs.kasua.ng/yirs-icon.png",
+  "termsOfUseUrl": "https://yirs.kasua.ng/terms",
+  "privacyPolicyUrl": "https://yirs.kasua.ng/privacy"
 }
